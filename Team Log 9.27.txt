@@ -1,0 +1,23 @@
+﻿9/27: - First Meeting
+Group members in attendance:
+
+
+Zack
+Garrett
+Jeff
+Jameson
+Jake
+Sebastian
+
+
+Missing:
+Ryan
+
+
+Accomplished in meeting:
+Worked on milestone 1, fleshed out which languages we wanted to use as well as picking the actual idea. Created the git repository, set up our groupme for communication.
+
+
+Action Items:
+* Everyone needs to watch some videos and look up the syntax on NodeJs and Swift, if not already familiar. 
+* Everyone needs to find at least one app that could be used as a template or example where we can start from
